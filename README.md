@@ -1,4 +1,4 @@
-# Manual-Testing-Sample-Project
+# Manual-Testing-Sample-Project-1
 Project Name: ebay
 
 Manual Testing Repository for eBay Website 🛠️🔍
